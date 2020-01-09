@@ -4,6 +4,7 @@
 
 - [Stress in Research. Part I: The Tournament and the Axe](https://www.theexclusive.org/2018/03/tournament-axe.html), Charles Sutton 2019
 - [How To Be Successful](http://blog.samaltman.com/how-to-be-successful), Sam Altman 2019
+- [How To Be Successful, Twitter Edition](https://threader.app/thread/1214274038933020672), Sam Altman 2020
 
 ## Creative
 
