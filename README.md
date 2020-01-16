@@ -1,5 +1,9 @@
 # research-advice
 
+## Writing
+- [Writing a Technical Paper (for RSS)](https://h2r.cs.brown.edu/writing-a-technical-paper/), Stefanie Tellex 2019
+
+
 ## Mental
 
 - [Stress in Research. Part I: The Tournament and the Axe](https://www.theexclusive.org/2018/03/tournament-axe.html), Charles Sutton 2019
