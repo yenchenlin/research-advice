@@ -4,7 +4,7 @@
 
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html), John Schulman 2020
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html), Richard Hamming 1986
-- [Principles of Effective Research], Michael Nielsen 2004
+- [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/), Michael Nielsen 2004
 - [How To Be Successful](http://blog.samaltman.com/how-to-be-successful), Sam Altman 2019
 - [How To Be Successful, Twitter Edition](https://threader.app/thread/1214274038933020672), Sam Altman 2020
 
