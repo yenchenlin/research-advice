@@ -13,10 +13,9 @@
 - [Writing a Technical Paper (for RSS)](https://h2r.cs.brown.edu/writing-a-technical-paper/), Stefanie Tellex 2019
 
 ## Creativity
-
 - [Research Design Pattern](http://pgbovine.net/research-design-patterns.htm), Phillip Guo 2019
 
 
 ## Technical
-
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/), Andrej Karpathy 2019
+- [The Secrets of The Secrets of Optical Flow](https://perceiving-systems.blog/en/post/the-secrets-of-the-secrets-of-optical-flow)
