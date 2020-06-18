@@ -18,4 +18,4 @@
 
 ## Technical
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/), Andrej Karpathy 2019
-- [The Secrets of The Secrets of Optical Flow](https://perceiving-systems.blog/en/post/the-secrets-of-the-secrets-of-optical-flow)
+- [The Secrets of The Secrets of Optical Flow](https://perceiving-systems.blog/en/post/the-secrets-of-the-secrets-of-optical-flow), Michael Black 2020
