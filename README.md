@@ -15,7 +15,10 @@
 ## Creativity
 - [Research Design Pattern](http://pgbovine.net/research-design-patterns.htm), Phillip Guo 2019
 
-
 ## Technical
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/), Andrej Karpathy 2019
 - [The Secrets of The Secrets of Optical Flow](https://perceiving-systems.blog/en/post/the-secrets-of-the-secrets-of-optical-flow), Michael Black 2020
+
+## Finance
+[Finances for CS Ph.D. students], Dave Anderson 2016
+[Finances for recent CS Ph.Ds headed to academia], Dave Anderson 2016
