@@ -20,5 +20,5 @@
 - [The Secrets of The Secrets of Optical Flow](https://perceiving-systems.blog/en/post/the-secrets-of-the-secrets-of-optical-flow), Michael Black 2020
 
 ## Finance
-[Finances for CS Ph.D. students], Dave Anderson 2016
-[Finances for recent CS Ph.Ds headed to academia], Dave Anderson 2016
+- [Finances for CS Ph.D. students](https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html), Dave Anderson 2016
+- [Finances for recent CS Ph.Ds headed to academia](https://da-data.blogspot.com/2016/12/finances-for-recent-cs-phds-headed-to.html), Dave Anderson 2016
