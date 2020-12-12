@@ -11,6 +11,7 @@
 
 ## Writing
 - [Writing a Technical Paper (for RSS)](https://h2r.cs.brown.edu/writing-a-technical-paper/), Stefanie Tellex 2019
+- [Through the Eyes of Birds and Frogs: Writing and Surveys in Machine Learning Research](http://blog.shakirm.com/2020/12/through-the-eyes-of-birds-and-frogs-writing-and-surveys-in-machine-learning-research/), Mohamed 2020
 
 ## Creativity
 - [Research Design Pattern](http://pgbovine.net/research-design-patterns.htm), Phillip Guo 2019
